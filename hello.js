@@ -1,1 +1,1 @@
-let("hhh")
+var a = ("gggg")
